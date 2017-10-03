@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d76b89ff4afc5a04195eab54bc63d331, type: 3}
+  m_Name: VuforiaConfiguration
+  m_EditorClassIdentifier: 
+  vuforia:
+    vuforiaLicenseKey: 415978484a50622f2f2f2f2f4141414141617762513437736e3068596a59546541695279497841586d58596a7843652f5946345a426973427a634f4a4572584c35332b356570707867354d7776684b61723246416a74395359514e525038756769414b3639456a7752796d6c37307566454b66423147776662513848476630356651495245647954496e65755762564d426d4c462b44343367392b70734e46644162647235462b5145426a3443394b6e4a345a37586f6f676442306a4448316f6f6d52614336323362564f5a2b72377631554645716154742b4b676752446d6c3766333533616f4536484630727164315a3671594563644b71633061725647314d2b442b61616757374846333032572f73496f417a676562556a5832344a666858766f69733645793264384d644c4e495a6d664d663176515947633447787473636e31576958365a50334f41574653317a32464477576b556a614b446f5233514358756e5a7a6d78396e584b4e684658544b462f667349613364414d
+    delayedInitialization: 0
+    cameraDeviceModeSetting: -1
+    maxSimultaneousImageTargets: 1
+    maxSimultaneousObjectTargets: 1
+    useDelayedLoadingObjectTargets: 0
+    cameraDirection: 0
+    mirrorVideoBackground: 0
+  digitalEyewear:
+    cameraOffset: 0.06
+    distortionRenderingMode: 1
+    distortionRenderingLayer: 31
+    eyewearType: 0
+    stereoFramework: 0
+    seeThroughConfiguration: 0
+    viewerName: 47656e657269632043617264626f617264
+    viewerManufacturer: 5675666f726961
+    useCustomViewer: 0
+    customViewer:
+      Version: 0
+      Name: 
+      Manufacturer: 
+      ButtonType: 0
+      ScreenToLensDistance: 0
+      InterLensDistance: 0
+      TrayAlignment: 0
+      LensCenterToTrayDistance: 0
+      DistortionCoefficients: {x: 0, y: 0}
+      FieldOfView: {x: 0, y: 0, z: 0, w: 0}
+      ContainsMagnet: 0
+  databaseLoad:
+    dataSetsToLoad: []
+    dataSetsToActivate: []
+  videoBackground:
+    clippingMode: 0
+    matteShader: {fileID: 4800000, guid: f84e93cca971cda47a225f4c6a4156c9, type: 3}
+    videoBackgroundEnabled: 1
+  smartTerrainTracker:
+    autoInitTracker: 0
+    autoStartTracker: 0
+    autoInitBuilder: 0
+    sceneUnitsToMillimeter: 1000
+  deviceTracker:
+    autoInitTracker: 1
+    autoStartTracker: 1
+    posePrediction: 0
+    modelCorrectionMode: 1
+    modelTransformEnabled: 0
+    modelTransform: {x: 0, y: 0.1, z: -0.1}
+  webcam:
+    deviceNameSetInEditor: 5553422043616d657261
+    flipHorizontally: 0
+    turnOffWebCam: 0
+    renderTextureLayer: 30

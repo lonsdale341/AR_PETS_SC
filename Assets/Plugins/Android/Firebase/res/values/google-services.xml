@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://augemented-reality.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">654726268125</string>
+  <string name="google_storage_bucket" translatable="false">augemented-reality.appspot.com</string>
+  <string name="project_id" translatable="false">augemented-reality</string>
+  <string name="google_api_key" translatable="false">AIzaSyCpbrqceMd_W9e-AC3-4L-4K0VzGkSxF20</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCpbrqceMd_W9e-AC3-4L-4K0VzGkSxF20</string>
+  <string name="google_app_id" translatable="false">1:654726268125:android:5152aa1e7b46d373</string>
+  <string name="default_web_client_id" translatable="false">654726268125-j4fe3bnc6q44a5egh37akcho4i1p84pq.apps.googleusercontent.com</string>
+</resources>

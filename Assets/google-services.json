@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "654726268125",
+    "firebase_url": "https://augemented-reality.firebaseio.com",
+    "project_id": "augemented-reality",
+    "storage_bucket": "augemented-reality.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654726268125:android:c549f6c804810445",
+        "android_client_info": {
+          "package_name": "com.uv.firebaseauthtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654726268125-j4fe3bnc6q44a5egh37akcho4i1p84pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpbrqceMd_W9e-AC3-4L-4K0VzGkSxF20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654726268125:android:5152aa1e7b46d373",
+        "android_client_info": {
+          "package_name": "com.uv.auth_firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654726268125-j4fe3bnc6q44a5egh37akcho4i1p84pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpbrqceMd_W9e-AC3-4L-4K0VzGkSxF20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
